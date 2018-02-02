@@ -1,0 +1,2 @@
+# etnova
+developement game
